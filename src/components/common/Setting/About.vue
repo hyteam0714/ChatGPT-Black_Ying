@@ -47,7 +47,12 @@ onMounted(() => {
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
           此项目由开源于Github
-            ，免费且基于 MIT 协议，没有任何形式的付费行为！
+ 
+
+
+
+
+，免费且基于 MIT 协议，没有任何形式的付费行为！
         </p>
         <p>
           如果你觉得此项目对你有帮助，请加 作者QQ:2812733889 给予一点赞助，谢谢！
